@@ -1,0 +1,22 @@
+run coomand
+go run ./packs/web/.
+
+repository pattern
+
+sessions
+WHile using session we need to initialize it
+
+
+Template
+.       -> represent the data passed to the template
+.Name   -> THe "Name" feild inside the passed struct
+Functions in Templates
+{{index .StringMap "name"}}  -> Get value for the key "name" from the map StringMap
+
+
+git
+gitignore directories and files created by the IDE before doing anything else
+git init -> initialize local git repo
+git add . -> add everything other than git git ignore
+git commit -m "<message>" -> commit the added files to the local repo
+
