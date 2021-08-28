@@ -19,4 +19,17 @@ gitignore directories and files created by the IDE before doing anything else
 git init -> initialize local git repo
 git add . -> add everything other than git git ignore
 git commit -m "<message>" -> commit the added files to the local repo
+create the online repo
+    git user home page
+    press on + sign and add new repository
+    enter new repo name
+    click on "create repository" button at the bottom
+seet the section "…or push an existing repository from the command line" on the new page
+    use all 3 commands 1 by 1 in order
+    git remote add origin https://github.com/manavagarwal20/bookings.git
+    git branch -M main
+    git push -u origin main
+Final Output:
+    Branch 'main' set up to track remote branch 'main' from 'origin'.
+
 
