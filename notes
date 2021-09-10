@@ -32,4 +32,32 @@ seet the section "…or push an existing repository from the command line" on th
 Final Output:
     Branch 'main' set up to track remote branch 'main' from 'origin'.
 
+discard changes to a tracked file
+git restore <file>
 
+html
+css
+for margin, padding, etc. use em as the unot of measurement
+every form needs to have a form, this signifies what to do with the submited data
+form
+enter "required" in the input tag to make the feild required
+NOTE: Safari doesn't have default date picker
+Modal -> the center dialog box which is shown to the user
+toast -> a type of dialog box which appears with some message
+
+bootstrap
+splits the the container in 12 columns
+col-lg-5 -> make it visible in 5 columns on large screens (left alligned)
+col-md-5 -> make it visible in 5 columns on medium screens (left alligned)
+col-sm-3 -> make it visible in 3 columns on small screens (left alligned)
+col-xs-2 -> make it visible in 2 columns on extra small screens (left alligned)
+mx-auto d-block -> centre alligned (need to modify width with custom css)
+form
+need to add feild name for every element in the form
+label->for and input->id should match
+aria-describedby -> for screen readers
+
+
+
+Check
+class="needs-validation" novalidate
